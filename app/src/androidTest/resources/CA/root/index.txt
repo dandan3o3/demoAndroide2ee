@@ -1,0 +1,1 @@
+V	280603134926Z		1000	unknown	/C=DE/ST=Germany/O=T-Systems MMS/OU=E2EE development/CN=Intermediate CA1

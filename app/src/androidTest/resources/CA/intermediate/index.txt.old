@@ -1,0 +1,8 @@
+V	190616140348Z		1000	unknown	/C=DE/ST=Germany/O=T-Systems MMS/OU=E2EE development/CN=patient
+V	190616140403Z		1001	unknown	/C=DE/ST=Germany/O=T-Systems MMS/OU=E2EE development/CN=physician
+V	190616140511Z		1002	unknown	/C=DE/ST=Germany/O=T-Systems MMS/OU=E2EE development/CN=deputy
+V	190616144858Z		1003	unknown	/C=DE/ST=Germany/O=T-Systems MMS/OU=E2EE development/CN=Sample patient/CN=encryption
+V	190616144859Z		1004	unknown	/C=DE/ST=Germany/O=T-Systems MMS/OU=E2EE development/CN=Sample patient/CN=signature
+V	190616145915Z		1005	unknown	/C=DE/ST=Germany/O=T-Systems MMS/OU=E2EE development/CN=Sample physician/CN=encryption
+V	190616145916Z		1006	unknown	/C=DE/ST=Germany/O=T-Systems MMS/OU=E2EE development/CN=Sample physician/CN=signature
+V	190616145933Z		1007	unknown	/C=DE/ST=Germany/O=T-Systems MMS/OU=E2EE development/CN=Sample deputy/CN=encryption
